@@ -1,2 +1,3 @@
-# Olá mundo
- Primeiro repositório do curso defgit git hub
+# Olá, mundo!
+ Primeiro repositório do curso de Git e GitHub
+ 
